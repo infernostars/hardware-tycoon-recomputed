@@ -1,0 +1,7 @@
+package_name: "dip14"
+stats: 
+    clockspeed_min: 100000
+    clockspeed_max: 600000
+    performance: 6.5
+    stability: 5
+    build: 2
